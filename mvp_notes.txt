@@ -1,0 +1,52 @@
+// *MVP*
+
+// Data structure
+Class Card  
+{
+  shape: 
+  color:
+  shade: 
+  number:
+}
+
+Methods
+  * set.validate()
+  * deck.generate()
+  * deck.shuffleDeck()
+  field.shuffle()
+  field.expand()
+  computerPlayer.searchField()
+
+Class ComputerPlayer 
+{
+
+}
+
+Class Player  
+{
+  score: 
+  completedSets: [[card1, card2, card3], [etc]]
+}
+
+Class TableTop
+{
+
+}
+
+// Object
+Class Deck 
+{
+
+}
+
+Class Set 
+{
+
+}
+
+Class Game
+{
+  rounds: 
+  timer: 
+  players: []
+}
